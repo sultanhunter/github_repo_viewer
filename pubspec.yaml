@@ -1,0 +1,36 @@
+name: repo_viewer
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  auto_route: ^3.1.1
+  dartz: ^0.10.0
+  dio: ^4.0.1
+  equatable: ^2.0.3
+  flash: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.3.3
+  flutter_secure_storage: ^4.2.1
+  freezed_annotation: ^0.15.0
+  hydrated_bloc: ^7.1.0
+  oauth2: ^2.0.0
+  webview_flutter: ^2.3.1
+
+dev_dependencies:
+  auto_route_generator: ^3.1.0
+  build_runner: ^2.1.5
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^0.15.1+1
+  lint: ^1.7.2
+
+flutter:
+  uses-material-design: true
