@@ -7,7 +7,7 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "**/*.freezed.dart": true,
-        "**/*.g.dart": true
+        "**/*.g.dart": false
     },
     "explorerExclude.backup": null
 }

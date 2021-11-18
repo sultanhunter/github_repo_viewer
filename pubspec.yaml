@@ -20,7 +20,9 @@ dependencies:
   flutter_secure_storage: ^4.2.1
   freezed_annotation: ^0.15.0
   hydrated_bloc: ^7.1.0
+  material_design_icons_flutter: ^5.0.6295
   oauth2: ^2.0.0
+  path_provider: ^2.0.7
   webview_flutter: ^2.3.1
 
 dev_dependencies:
